@@ -1,13 +1,15 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 14 - ORM and Modeling
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://travis-ci.com/michaelageorge/14-orm-and-modeling.svg?branch=master)](https://travis-ci.com/michaelageorge/14-orm-and-modeling)
+
+* [repo](https://github.com/michaelageorge/14-orm-and-modeling)
+* [travis](https://travis-ci.com/michaelageorge/14-orm-and-modeling)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
